@@ -12,7 +12,6 @@ body{
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  background-image: url('desk.jpg');
   position: relative;
   background-repeat: no-repeat;
 
