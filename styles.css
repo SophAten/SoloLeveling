@@ -233,3 +233,7 @@ li a {
   padding: 1em;
   font-size: 1.3em;
 }
+
+iframe {
+  padding: 1em;
+}
