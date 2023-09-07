@@ -236,6 +236,9 @@ li a {
 
 iframe {
   padding: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 
 
 }
